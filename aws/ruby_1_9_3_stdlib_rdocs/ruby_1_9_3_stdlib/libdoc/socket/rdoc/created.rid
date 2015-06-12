@@ -1,0 +1,19 @@
+Wed, 30 Jul 2014 22:50:05 -0700
+socket/ancdata.c	Wed, 30 Jul 2014 22:15:28 -0700
+socket/basicsocket.c	Wed, 30 Jul 2014 22:15:28 -0700
+socket/constants.c	Wed, 30 Jul 2014 22:15:28 -0700
+socket/getaddrinfo.c	Wed, 30 Jul 2014 22:15:28 -0700
+socket/getnameinfo.c	Wed, 30 Jul 2014 22:15:28 -0700
+socket/init.c	Wed, 30 Jul 2014 22:15:28 -0700
+socket/ipsocket.c	Wed, 30 Jul 2014 22:15:28 -0700
+socket/lib/socket.rb	Wed, 30 Jul 2014 22:15:28 -0700
+socket/mkconstants.rb	Wed, 30 Jul 2014 22:15:28 -0700
+socket/option.c	Wed, 30 Jul 2014 22:15:28 -0700
+socket/raddrinfo.c	Wed, 30 Jul 2014 22:15:28 -0700
+socket/socket.c	Wed, 30 Jul 2014 22:15:28 -0700
+socket/sockssocket.c	Wed, 30 Jul 2014 22:15:28 -0700
+socket/tcpserver.c	Wed, 30 Jul 2014 22:15:28 -0700
+socket/tcpsocket.c	Wed, 30 Jul 2014 22:15:28 -0700
+socket/udpsocket.c	Wed, 30 Jul 2014 22:15:28 -0700
+socket/unixserver.c	Wed, 30 Jul 2014 22:15:28 -0700
+socket/unixsocket.c	Wed, 30 Jul 2014 22:15:28 -0700
